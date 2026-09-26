@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+Title: Welcome to my blog!
 ---
+
+
+This is Anu R :) 
